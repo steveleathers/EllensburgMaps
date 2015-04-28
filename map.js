@@ -1,5 +1,5 @@
 function initialize() {
-  var myLatlng = new google.maps.LatLng(34.214537, -117.463741);
+  var myLatlng = new google.maps.LatLng(46.9971, -120.5451);
   var mapOptions = {
     zoom: 10,
     center: myLatlng,
